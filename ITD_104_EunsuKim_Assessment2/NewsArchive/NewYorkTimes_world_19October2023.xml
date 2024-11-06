@@ -1,0 +1,1198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World News</title>
+    <link>https://www.nytimes.com/section/world</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2023 The New York Times Company</copyright>
+    <lastBuildDate>Thu, 19 Oct 2023 01:43:03 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Oct 2023 01:35:31 +0000</pubDate>
+    <image>
+      <title>NYT &gt; World News</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/world</link>
+    </image>
+    <item>
+      <title>Israel-Hamas War: Biden Urges U.S. to Remain ‘Beacon to the World’ in Aiding Allies at War</title>
+      <link>https://www.nytimes.com/live/2023/10/19/world/israel-hamas-war-gaza-news</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2023/10/19/world/israel-hamas-war-gaza-news</guid>
+      <atom:link href="https://www.nytimes.com/live/2023/10/19/world/israel-hamas-war-gaza-news" rel="standout"></atom:link>
+      <description>In an Oval Office speech, the president said that if terrorists and dictators weren’t stopped, “the cost and the threats to America” would keep rising. The address set the stage for his planned request to Congress for tens of billions of dollars in aid for Israel and Ukraine.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Fri, 20 Oct 2023 01:35:31 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/19/multimedia/19israel-hamas-blog-header7am-gjfb/19israel-hamas-blog-header7am-gjfb-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Samar Abu Elouf for The New York Times</media:credit>
+      <media:description>Damage from an Israeli airstrike in Gaza’s southern city of Khan Younis on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Ukraine’s Economy Starts to Rebound as It Adapts to War</title>
+      <link>https://www.nytimes.com/2023/10/19/business/ukraine-economy-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/19/business/ukraine-economy-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/19/business/ukraine-economy-war.html" rel="standout"></atom:link>
+      <description>Economists predict a return to growth, but many challenges lie ahead, including the rebuilding of war-torn cities and labor shortages.</description>
+      <dc:creator>Constant Méheut</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 12:44:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/19/multimedia/00ukraine-economy-03-hmwt/00ukraine-economy-03-hmwt-moth-v5.jpg" width="151"></media:content>
+      <media:credit>Nicole Tung for The New York Times</media:credit>
+      <media:description>A shop damaged by shrapnel and bullet holes in the Kherson region of Ukraine. Economists say it will take many years for Ukraine’s economy to return to prewar levels.</media:description>
+    </item>
+    <item>
+      <title>Deal Lays Groundwork for Aid to Reach Desperate Gazans, Officials Say</title>
+      <link>https://www.nytimes.com/2023/10/19/world/middleeast/gaza-israel-aid-egypt-rafah.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/19/world/middleeast/gaza-israel-aid-egypt-rafah.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/19/world/middleeast/gaza-israel-aid-egypt-rafah.html" rel="standout"></atom:link>
+      <description>Trucks loaded with food and medicine are lined up tantalizingly close to people who need it, separated only by border gates that war and diplomatic wrangling have kept closed.</description>
+      <dc:creator>Matthew Rosenberg, Emma Bubola, Matina Stevis-Gridneff, Vivian Yee and Monika Pronczuk</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 22:27:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Border Barriers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Committee of the Red Cross</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Norwegian Refugee Council</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Federation of Red Cross and Red Crescent Societies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/19/multimedia/19gaza-aid01-hlgm/19gaza-aid01-hlgm-moth.jpg" width="151"></media:content>
+      <media:credit>Yousef Masoud for The New York Times</media:credit>
+      <media:description>People look through the rubble of a home in Khan Younis, in the southern Gaza Strip, that was destroyed by an airstrike on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Javier Milei and His 5 Cloned Dogs in Argentina’s Election</title>
+      <link>https://www.nytimes.com/2023/10/19/world/americas/argentina-election-javier-milei.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/19/world/americas/argentina-election-javier-milei.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/19/world/americas/argentina-election-javier-milei.html" rel="standout"></atom:link>
+      <description>Javier Milei, a far-right libertarian, might soon be Argentina’s next president. He credits his cloned “four-legged children.”</description>
+      <dc:creator>Jack Nicas</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 12:17:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cloning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dogs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">ViaGen Pets &amp; Equine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Milei, Javier</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Argentina</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/18/world/18argentina-dogs/18argentina-dogs-moth.jpg" width="151"></media:content>
+      <media:credit>Marcelo Dubini/Caras</media:credit>
+      <media:description>Javier Milei at home in 2018 with his cloned mastiff puppies.</media:description>
+    </item>
+    <item>
+      <title>Photos: Life Under the Bombs in Khan Younis, Gaza</title>
+      <link>https://www.nytimes.com/2023/10/19/world/middleeast/israel-gaza-airstrikes-khan-younis.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/19/world/middleeast/israel-gaza-airstrikes-khan-younis.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/19/world/middleeast/israel-gaza-airstrikes-khan-younis.html" rel="standout"></atom:link>
+      <description>Civilians in Gaza face an unending nightmare of airstrikes and deprivation — if they manage to survive.</description>
+      <dc:creator>Samar Abu Elouf, Yousef Masoud and Karen Zraick</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 17:17:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Khan Younis (Gaza Strip)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Al Ahli Arab Hospital (Gaza Strip)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rafah (Gaza Strip)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/19/multimedia/19gaza-visual-day-01-ztmw/19gaza-visual-day-01-ztmw-moth.jpg" width="151"></media:content>
+      <media:credit>Samar Abu Elouf for The New York Times</media:credit>
+      <media:description>Medical workers with a boy, who was injured in a strike, at a hospital in Khan Younis, Gaza, on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Israelis Praise Biden Visit but Fear U.S. Constraints on Action</title>
+      <link>https://www.nytimes.com/2023/10/19/world/europe/israel-biden-netanyahu-hamas.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/19/world/europe/israel-biden-netanyahu-hamas.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/19/world/europe/israel-biden-netanyahu-hamas.html" rel="standout"></atom:link>
+      <description>President Biden promised undying American backing for Israel in its war against Hamas. But that won’t mean U.S. support for everything Israel does.</description>
+      <dc:creator>Steven Erlanger</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 17:41:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blinken, Antony J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/19/multimedia/19israel-biden-assess01-fctj/19israel-biden-assess01-fctj-moth.jpg" width="151"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>President Biden with Prime Minister Benjamin Netanyahu of Israel in Tel Aviv on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>What Is Hezbollah, the Group Posing a Threat to Israel from the North?</title>
+      <link>https://www.nytimes.com/2023/10/19/world/middleeast/hezbollah-lebanon-israel-explained.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/19/world/middleeast/hezbollah-lebanon-israel-explained.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/19/world/middleeast/hezbollah-lebanon-israel-explained.html" rel="standout"></atom:link>
+      <description>For decades, Hezbollah has been a significant force in Lebanon, wielding both political power and military strength — all while engaging in tit-for-tat skirmishes with Israel.</description>
+      <dc:creator>Nicholas Casey and Euan Ward</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 12:25:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/16/multimedia/16israel-hamas-hezbollah-explainer-2-mpjq/16israel-hamas-hezbollah-explainer-2-mpjq-moth.jpg" width="151"></media:content>
+      <media:credit>Wael Hamzeh/EPA, via Shutterstock</media:credit>
+      <media:description>Hezbollah fighters carrying out training exercises during a news media visit to one of their camps in the village of Aaramta, in southern Lebanon, in May.</media:description>
+    </item>
+    <item>
+      <title>Russia Detains a U.S. Journalist, Alsu Kurmasheva</title>
+      <link>https://www.nytimes.com/2023/10/19/world/europe/russia-journalist-detain-alsu-kurmasheva.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/19/world/europe/russia-journalist-detain-alsu-kurmasheva.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/19/world/europe/russia-journalist-detain-alsu-kurmasheva.html" rel="standout"></atom:link>
+      <description>Alsu Kurmasheva, who holds dual U.S.-Russian citizenship and works in Prague, was charged with failing to register as a foreign agent after going to Russia for family reasons.</description>
+      <dc:creator>Ivan Nechepurenko</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 13:43:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kurmasheva, Alsu</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Radio Free Europe-Radio Liberty</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/19/multimedia/19russia-journalist-qlwk/19russia-journalist-qlwk-moth.jpg" width="151"></media:content>
+      <media:credit>Evgenia Novozhenina/Reuters</media:credit>
+      <media:description>The newsroom of Radio Free Europe/Radio Liberty broadcaster in Moscow.</media:description>
+    </item>
+    <item>
+      <title>What South Korea’s Frequent Protests Say About Its Politics</title>
+      <link>https://www.nytimes.com/2023/10/19/world/asia/south-korea-protests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/19/world/asia/south-korea-protests.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/19/world/asia/south-korea-protests.html" rel="standout"></atom:link>
+      <description>Part rock concert, part revival meeting, the rallies reveal a country increasingly polarized over its leader, Yoon Suk Yeol.</description>
+      <dc:creator>Choe Sang-Hun and Chang W. Lee</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 04:15:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seoul (South Korea)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yoon Suk-yeol</category>
+    </item>
+    <item>
+      <title>China’s Military is Making Risky Moves and Adding Nuclear Warheads, U.S. Says</title>
+      <link>https://www.nytimes.com/2023/10/19/world/asia/china-military-nuclear-weapons.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/19/world/asia/china-military-nuclear-weapons.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/19/world/asia/china-military-nuclear-weapons.html" rel="standout"></atom:link>
+      <description>The Defense Department said in a report to Congress that Beijing’s “coercive” air intercepts were aimed at intimidating U.S. forces in the region.</description>
+      <dc:creator>Chris Buckley</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 18:33:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Aircraft</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Control and Limitation and Disarmament</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">People&#39;s Liberation Army (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South China Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/19/multimedia/19dc-china-lqbg/19dc-china-lqbg-moth.jpg" width="151"></media:content>
+      <media:credit>Tingshu Wang/Reuters</media:credit>
+      <media:description>China has been stepping up military pressure on Taiwan, sending jets, drones, bombers and other planes near the island.</media:description>
+    </item>
+    <item>
+      <title>Protests Erupt Over ‘Horrific Scenes’ of Palestinians in Gaza</title>
+      <link>https://www.nytimes.com/2023/10/18/world/middleeast/protests-gaza-hospital-israel-palestine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/18/world/middleeast/protests-gaza-hospital-israel-palestine.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/18/world/middleeast/protests-gaza-hospital-israel-palestine.html" rel="standout"></atom:link>
+      <description>Not only Arabs in the street but, strikingly, also their rulers nearly uniformly condemned Israel for the Gaza hospital explosion and other violence affecting Palestinians.</description>
+      <dc:creator>Vivian Yee</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 03:14:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palestinian Islamic Jihad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sisi, Abdel Fattah el-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tunis (Tunisia)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/18/multimedia/18gaza-react-01-qwzb/18gaza-react-01-qwzb-moth.jpg" width="151"></media:content>
+      <media:credit>Hassan Ammar/Associated Press</media:credit>
+      <media:description>Protesters clashed with Lebanese Army soldiers near the United States Embassy in Beirut on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>With Putin by His Side, Xi Outlines His Vision of a New World Order</title>
+      <link>https://www.nytimes.com/2023/10/18/world/asia/putin-xi-china-russia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/18/world/asia/putin-xi-china-russia.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/18/world/asia/putin-xi-china-russia.html" rel="standout"></atom:link>
+      <description>China’s close ties with Russia in countering American dominance point to a geopolitical rift that could shape the conflict between Israel and Hamas.</description>
+      <dc:creator>David Pierson, Anatoly Kurmanaev and Tiffany May</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 03:06:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wang Yi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Asia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-video</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Belt and Road Initiative (China)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/18/multimedia/18xi-putin-wthj/18xi-putin-wthj-moth.jpg" width="151"></media:content>
+      <media:credit>Andres Martinez Casares/EPA, via Shutterstock</media:credit>
+      <media:description>China’s top leader, Xi Jinping, left, meeting with President Vladimir V. Putin of Russia, in Beijing, China, on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Biden Visits Israel and Putin Visits China Amid Gaza and Ukraine Wars</title>
+      <link>https://www.nytimes.com/2023/10/18/world/europe/biden-israel-putin-china.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/18/world/europe/biden-israel-putin-china.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/18/world/europe/biden-israel-putin-china.html" rel="standout"></atom:link>
+      <description>Washington’s strong support for Israel against Hamas is contrasted with Russian and Chinese efforts to align with the Palestinian struggle.</description>
+      <dc:creator>Steven Erlanger</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 23:42:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wang Yi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/18/multimedia/18israel-geopolitics-mglv/18israel-geopolitics-mglv-moth.jpg" width="151"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>President Biden arrived in Israel on Wednesday to show solidarity with Washington’s close ally in the Middle East.</media:description>
+    </item>
+    <item>
+      <title>Sign Up for Your Places: Global Update</title>
+      <link>https://nytimes.com/newsletters?newsletter_signup=true&amp;product_code=YPGU</link>
+      <guid isPermaLink="true">https://nytimes.com/newsletters?newsletter_signup=true&amp;product_code=YPGU</guid>
+      <atom:link href="https://nytimes.com/newsletters?newsletter_signup=true&amp;product_code=YPGU" rel="standout"></atom:link>
+      <description>All the latest news for any part of the world you select.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 19:25:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canada Pulls 41 Diplomats as India Threatens to Revoke Their Immunity</title>
+      <link>https://www.nytimes.com/2023/10/19/world/canada/canada-india-diplomats-withdraw.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/19/world/canada/canada-india-diplomats-withdraw.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/19/world/canada/canada-india-diplomats-withdraw.html" rel="standout"></atom:link>
+      <description>The diplomats and 42 family members left amid growing tension over Canada’s assertion that India was complicit in the killing of a Sikh leader in British Columbia.</description>
+      <dc:creator>Ian Austen</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 22:12:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trudeau, Justin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nijjar, Hardeep Singh (1977-2023)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Immunity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sikhs and Sikhism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/19/multimedia/19canada-india-01-fqjz/19canada-india-01-fqjz-moth.jpg" width="151"></media:content>
+      <media:credit>Blair Gable/Reuters</media:credit>
+      <media:description>Mélanie Joly, Canada’s foreign minister, right, sitting next to Prime Minister Justin Trudeau, said that India’s plan to revoke diplomatic immunity was “unreasonable and escalatory.”</media:description>
+    </item>
+    <item>
+      <title>Israelis Can Travel to U.S. Without a Visa Under New Biden Program</title>
+      <link>https://www.nytimes.com/2023/10/19/world/middleeast/israel-visa-travel.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/19/world/middleeast/israel-visa-travel.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/19/world/middleeast/israel-visa-travel.html" rel="standout"></atom:link>
+      <description>The change should make it easier and faster for Israelis seeking to flee the war.</description>
+      <dc:creator>Eileen Sullivan</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 22:04:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Visas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/10/multimedia/19israel-hamas-blog-israeli-visas-sub/10israel-gaza-carousel-03-wpkf-moth.jpg" width="151"></media:content>
+      <media:credit>Tamir Kalifa for The New York Times</media:credit>
+      <media:description>Travelers at Ben-Gurion International Airport near Lod, Israel, last week.</media:description>
+    </item>
+    <item>
+      <title>Mexico’s Top Human Rights Official Resigns, Handing Off Unsolved Mass Disappearance Case</title>
+      <link>https://www.nytimes.com/2023/10/19/world/americas/mexico-alejandro-encinas-resigns.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/19/world/americas/mexico-alejandro-encinas-resigns.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/19/world/americas/mexico-alejandro-encinas-resigns.html" rel="standout"></atom:link>
+      <description>Alejandro Encinas spent years investigating the high-profile case of 43 missing students, but said he was stepping down to work on a presidential election campaign.</description>
+      <dc:creator>James Wagner</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 21:35:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Encinas, Alejandro</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lopez Obrador, Andres Manuel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sheinbaum, Claudia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/19/multimedia/19mexico-01-wmpz/19mexico-01-wmpz-moth.jpg" width="151"></media:content>
+      <media:credit>Claudio Cruz/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Alejandro Encinas, a longtime friend and political ally of President Andrés Manuel López Obrador, has been at odds with the Mexican armed forces.</media:description>
+    </item>
+    <item>
+      <title>Mainstream Republicans Opposing Jim Jordan’s Speaker Bid Dig In Against Him</title>
+      <link>https://www.nytimes.com/2023/10/19/world/europe/jordan-republicans-speaker-threats.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/19/world/europe/jordan-republicans-speaker-threats.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/19/world/europe/jordan-republicans-speaker-threats.html" rel="standout"></atom:link>
+      <description>Facing intimidation for opposing Jim Jordan’s speakership candidacy, mainstream Republicans are refusing to back down, defying their reputation for caving in the face of party clashes.</description>
+      <dc:creator>Catie Edmondson</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 22:02:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Threats and Threatening Messages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jordan, Jim (1964- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/19/multimedia/19dc-repubs-01-pczt/19dc-repubs-01-pczt-moth.jpg" width="151"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>Representative Mariannette Miller-Meeks said she had received “credible death threats and a barrage of threatening calls” after voting against Representative Jim Jordan for speaker. </media:description>
+    </item>
+    <item>
+      <title>U.S. Shoots Down Several Missiles and Drones Launched From Yemen</title>
+      <link>https://www.nytimes.com/2023/10/19/us/politics/us-missiles-yemen.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/19/us/politics/us-missiles-yemen.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/19/us/politics/us-missiles-yemen.html" rel="standout"></atom:link>
+      <description>A flurry of incidents underscored the heightened risks that the conflict between Israel and Hamas could spiral into a wider war.</description>
+      <dc:creator>Eric Schmitt and Farnaz Fassihi</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 23:26:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Navy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Red Sea</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/19/multimedia/19dc-military-qmwv/19dc-military-qmwv-moth.jpg" width="151"></media:content>
+      <media:credit>Ryan U. Kledzik/U.S. Naval Forces Europe-Africa, via Associated Press</media:credit>
+      <media:description>A photograph released by the U.S. Navy shows a Navy destroyer. A U.S. warship shot down three cruise missiles and several drones.</media:description>
+    </item>
+    <item>
+      <title>Friday Briefing: Gaza Aid Deal Sees Progress</title>
+      <link>https://www.nytimes.com/2023/10/19/briefing/israel-gaza-war-aid-china-nuclear-warheads-ukraine-economy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/19/briefing/israel-gaza-war-aid-china-nuclear-warheads-ukraine-economy.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/19/briefing/israel-gaza-war-aid-china-nuclear-warheads-ukraine-economy.html" rel="standout"></atom:link>
+      <description>Plus South Korea’s protest culture.</description>
+      <dc:creator>Justin Porter</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 20:59:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far East, South and Southeast Asia and Pacific Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/19/multimedia/20ambriefing-asia-aid-promo/20ambriefing-asia-aid-moth.jpg" width="151"></media:content>
+      <media:credit>Giuseppe Cacace/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Humanitarian aid provided by the United Nations is loaded onto a United Arab Emirates Air Force C-130H-30 Hercules turboprop military transport aircraft at Dubai International Airport before departure for Cairo on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Gaza Hospital Blast Death Toll Between 100-300, U.S. Officials Estimate</title>
+      <link>https://www.nytimes.com/2023/10/19/world/middleeast/gaza-hospital-blast-deaths.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/19/world/middleeast/gaza-hospital-blast-deaths.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/19/world/middleeast/gaza-hospital-blast-deaths.html" rel="standout"></atom:link>
+      <description>American officials say the blast on Tuesday likely killed 100 to 300 people. Gaza officials estimate the death toll closer to 500.</description>
+      <dc:creator>Julian E. Barnes</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 22:58:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/19/multimedia/19israel-hamas-blog-hospital-blast-intelligence-01-mthw/19israel-hamas-blog-hospital-blast-intelligence-01-mthw-moth.jpg" width="151"></media:content>
+      <media:credit>Mohammed Saber/EPA, via Shutterstock</media:credit>
+      <media:description>The scene outside the Al Ahli Hospital in Gaza, a day after a deadly explosion on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>What the Laws of War Say About Forced Displacement and ‘Human Shields’</title>
+      <link>https://www.nytimes.com/2023/10/19/world/europe/interpreter-laws-human-shields-forced-displacement.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/19/world/europe/interpreter-laws-human-shields-forced-displacement.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/19/world/europe/interpreter-laws-human-shields-forced-displacement.html" rel="standout"></atom:link>
+      <description>Amid the sorrow and anger over the ongoing violence, the core principles of humanitarian law are simple. Civilians must be protected.</description>
+      <dc:creator>Amanda Taub</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 20:08:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Al Shifa Hospital (Gaza Strip)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Committee of the Red Cross</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blinken, Antony J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/19/multimedia/19int-laws-war-pwqt/19int-laws-war-pwqt-moth.jpg" width="151"></media:content>
+      <media:credit>Samar Abu Elouf for The New York Times</media:credit>
+      <media:description>Palestinians leaving the northern Gaza Strip, on their way south, near Khan Younis on Friday, Oct. 13.</media:description>
+    </item>
+    <item>
+      <title>Hurricane Norma Packs Powerful Winds as It Churns Toward Mexico</title>
+      <link>https://www.nytimes.com/article/hurricane-norma-baja-california.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/article/hurricane-norma-baja-california.html</guid>
+      <atom:link href="https://www.nytimes.com/article/hurricane-norma-baja-california.html" rel="standout"></atom:link>
+      <description>The Category 4 storm was expected to unleash heavy rain and likely cause flooding and mudslides in southern Baja California Sur this weekend, forecasters said.</description>
+      <dc:creator>Christine Hauser</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 21:02:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Hurricane Center</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baja California (Mexico)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cabo San Lucas (Mexico)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/19/multimedia/19xp-bajacalifornia-qhpg/19xp-bajacalifornia-qhpg-moth.jpg" width="151"></media:content>
+      <media:credit>NOAA</media:credit>
+      <media:description>Hurricane Norma’s winds had reached 130 miles per hour as it approached the southern parts of Cabo San Lucas and the western coast of Mexico.</media:description>
+    </item>
+    <item>
+      <title>Van Gogh Museum Stops Giving Out Pikachu Cards After Pokémon Frenzy</title>
+      <link>https://www.nytimes.com/2023/10/19/world/europe/van-gogh-museum-pokemon.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/19/world/europe/van-gogh-museum-pokemon.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/19/world/europe/van-gogh-museum-pokemon.html" rel="standout"></atom:link>
+      <description>The museum in Amsterdam stopped giving out Pikachu cards that were part of a special collaboration after extreme demand.</description>
+      <dc:creator>Claire Moses</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 21:41:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pokemon (Fictional Characters)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Collectors and Collections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pokemon Co International Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Van Gogh Museum</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/19/multimedia/19xp-pokemon/19xp-pokemon-moth.jpg" width="151"></media:content>
+      <media:credit>Remko de Waal/ANP, via Agence France-Presse — Getty Images</media:credit>
+      <media:description>The Van Gogh Museum in Amsterdam gave out special Pokémon cards to celebrate the museum’s 50th anniversary and recognize the link between the Dutch artist and Japan. Then things got nutty.</media:description>
+    </item>
+    <item>
+      <title>Chasing Jack the Ripper Through the Streets of Modern London</title>
+      <link>https://www.nytimes.com/2023/10/19/world/europe/jack-the-ripper-tours-london.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/19/world/europe/jack-the-ripper-tours-london.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/19/world/europe/jack-the-ripper-tours-london.html" rel="standout"></atom:link>
+      <description>Tours devoted to the Victorian-era serial killer are thriving, even if the area they explore looks decidedly modern.</description>
+      <dc:creator>Claire Moses</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 13:14:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Serial Murders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubenhold, Hallie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Five: The Untold Lives of the Women Killed by Jack the Ripper (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/04/multimedia/00xp-rippertours-ckvw/00xp-rippertours-ckvw-moth.jpg" width="151"></media:content>
+      <media:credit>Gabriella Demczuk for The New York Times</media:credit>
+      <media:description>Mick Priestly has been giving Jack the Ripper tours through Whitechapel for a decade.</media:description>
+    </item>
+    <item>
+      <title>Rishi Sunak Visits Israel in a Display of Support From U.K.</title>
+      <link>https://www.nytimes.com/2023/10/19/world/middleeast/rishi-sunak-israel-visit-uk.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/19/world/middleeast/rishi-sunak-israel-visit-uk.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/19/world/middleeast/rishi-sunak-israel-visit-uk.html" rel="standout"></atom:link>
+      <description>The British prime minister met his Israeli counterpart, Benjamin Netanyahu, during the trip, which follows a visit by President Biden.</description>
+      <dc:creator>Stephen Castle</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 12:04:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rafah (Gaza Strip)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/19/multimedia/19israel-hamas-blog-sunak-visit-mlcz/19israel-hamas-blog-sunak-visit-mlcz-moth.jpg" width="151"></media:content>
+      <media:credit>Ohad Zwigenberg/Associated Press</media:credit>
+      <media:description>Prime Minister Rishi Sunak of Britain arriving at Ben Gurion Airport, near Tel Aviv, Israel, on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Republicans Use Israel Attack to Stoke Fears About U.S.-Mexico Border</title>
+      <link>https://www.nytimes.com/2023/10/19/us/politics/republicans-mexico-border-israel.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/19/us/politics/republicans-mexico-border-israel.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/19/us/politics/republicans-mexico-border-israel.html" rel="standout"></atom:link>
+      <description>G.O.P. lawmakers and candidates regularly invoke record-high border crossings to address a range of issues, including crime and jobs.</description>
+      <dc:creator>Jazmine Ulloa</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 13:09:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeSantis, Ron</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haley, Nikki R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/17/multimedia/POL-GOP-BORDER-01-czlw/POL-GOP-BORDER-01-czlw-moth.jpg" width="151"></media:content>
+      <media:credit>John Tully for The New York Times</media:credit>
+      <media:description>Nikki Haley and other members of the Republican Party in trying to tie the Hamas attack to the United States’ southern border through sweeping and largely unsubstantiated claims.</media:description>
+    </item>
+    <item>
+      <title>Thursday Briefing</title>
+      <link>https://www.nytimes.com/2023/10/19/briefing/biden-israel-republicans-xi-jinping.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/19/briefing/biden-israel-republicans-xi-jinping.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/19/briefing/biden-israel-republicans-xi-jinping.html" rel="standout"></atom:link>
+      <description>President Biden’s wartime visit to Israel.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 04:14:10 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/18/multimedia/19ambriefing-europe-promo/19ambriefing-europe-biden-moth.jpg" width="151"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>President Biden’s visit to Israel, including a meeting with Benjamin Netanyahu, has been complicated by a deadly hospital blast and rising tensions in the region.</media:description>
+    </item>
+    <item>
+      <title>Families of Hamas Hostages Split on Invasion of Gaza</title>
+      <link>https://www.nytimes.com/2023/10/18/world/middleeast/israel-hamas-hostages-gaza-invasion.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/18/world/middleeast/israel-hamas-hostages-gaza-invasion.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/18/world/middleeast/israel-hamas-hostages-gaza-invasion.html" rel="standout"></atom:link>
+      <description>The families are torn between wanting their loved ones returned safely at any cost and concern about more loss of life.</description>
+      <dc:creator>Nadav Gavrielov</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 06:44:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/18/multimedia/18israel-hamas-invasion-hostages-fears-kirya-zfgm/18israel-hamas-invasion-hostages-fears-kirya-zfgm-moth.jpg" width="151"></media:content>
+      <media:credit>Tamir Kalifa for The New York Times</media:credit>
+      <media:description>Photographs of Israelis believed to have been kidnapped by Hamas on Oct. 7 on display this week near the Israel Defense Forces’ headquarters in Tel Aviv.</media:description>
+    </item>
+    <item>
+      <title>First Venezuelan Migrants Deported Under New U.S. Policy Arrive</title>
+      <link>https://www.nytimes.com/2023/10/18/world/americas/venezuelans-deportations-migrants.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/18/world/americas/venezuelans-deportations-migrants.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/18/world/americas/venezuelans-deportations-migrants.html" rel="standout"></atom:link>
+      <description>The deportation of migrants who had entered the U.S. illegally came as the Biden administration lifted some sanctions against Venezuela.</description>
+      <dc:creator>Eileen Sullivan and Frances Robles</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 08:46:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chatham House (The Royal Institute of International Affairs)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maduro, Nicolas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/18/multimedia/18venezuela-deport-tlzk/18venezuela-deport-tlzk-moth.jpg" width="151"></media:content>
+      <media:credit>Veronica G. Cardenas/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Migrants boarding a plane in Harlingen, Texas, on Wednesday for deportation to Venezuela.</media:description>
+    </item>
+    <item>
+      <title>300 Arrested on Capitol Hill in Call for Cease-Fire in Israel-Hamas War</title>
+      <link>https://www.nytimes.com/2023/10/18/world/middleeast/protest-israel-hamas-ceasefire-congress.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/18/world/middleeast/protest-israel-hamas-ceasefire-congress.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/18/world/middleeast/protest-israel-hamas-ceasefire-congress.html" rel="standout"></atom:link>
+      <description>Rallies over the Israel-Hamas war have continued to be held across the country and in world capitals.</description>
+      <dc:creator>Ephrat Livni</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 13:31:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Capitol Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Capitol Building (Washington, DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/18/multimedia/18israel-hamas-live-capitolprotest-klbm/18israel-hamas-live-capitolprotest-klbm-moth.jpg" width="151"></media:content>
+      <media:credit>Al Drago for The New York Times</media:credit>
+      <media:description>Hundreds of protesters asked for a cease-fire in the Israel-Hamas war, inside the Cannon House Office Building on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Jacob Lew, Biden Nominee for Ambassador to Israel, Is Grilled by Senators</title>
+      <link>https://www.nytimes.com/2023/10/18/world/middleeast/jack-lew-ambassador-israel.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/18/world/middleeast/jack-lew-ambassador-israel.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/18/world/middleeast/jack-lew-ambassador-israel.html" rel="standout"></atom:link>
+      <description>Republicans on the Senate Foreign Relations Committee accused Jacob Lew of having enabled the rise of Iran-backed terror groups as President Obama’s Treasury secretary.</description>
+      <dc:creator>Karoun Demirjian</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 06:14:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate Committee on Foreign Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lew, Jacob J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/18/multimedia/18israel-hamas-us-ambassador-hearing-topart-jfcm/18israel-hamas-us-ambassador-hearing-topart-jfcm-moth.jpg" width="151"></media:content>
+      <media:credit>Al Drago for The New York Times</media:credit>
+      <media:description>Jacob J. Lew, President Biden’s nominee as the next U.S. ambassador to Israel, on Wednesday at his confirmation hearing before the Senate Foreign Relations Committee.</media:description>
+    </item>
+    <item>
+      <title>U.S. Vetoes U.N. Security Council Resolution on Israel-Hamas War</title>
+      <link>https://www.nytimes.com/2023/10/18/world/middleeast/israel-hamas-gaza-un-security-council.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/18/world/middleeast/israel-hamas-gaza-un-security-council.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/18/world/middleeast/israel-hamas-gaza-un-security-council.html" rel="standout"></atom:link>
+      <description>The American ambassador said the U.S. couldn’t support a measure that didn’t mention Israel’s right to self-defense.</description>
+      <dc:creator>Farnaz Fassihi</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 01:04:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thomas-Greenfield, Linda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Security Council (UN)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/18/multimedia/18israel-hamas-un-security-council-topart-cgqf/18israel-hamas-un-security-council-topart-cgqf-moth.jpg" width="151"></media:content>
+      <media:credit>Mike Segar/Reuters</media:credit>
+      <media:description>Linda Thomas-Greenfield, right, the American ambassador to the United Nations, used the United States’ veto power to block a Security Council resolution on the Israel-Hamas war on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>U.S. Says Israel Didn’t Cause Hospital Blast, as Biden Promises Aid to Gaza</title>
+      <link>https://www.nytimes.com/2023/10/18/world/middleeast/biden-israel-gaza-hospital.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/18/world/middleeast/biden-israel-gaza-hospital.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/18/world/middleeast/biden-israel-gaza-hospital.html" rel="standout"></atom:link>
+      <description>President Biden backed Israel’s claim that a Gaza City explosion that killed hundreds, which Hamas blamed on Israel, had come from a failed rocket launch by an armed Palestinian group.</description>
+      <dc:creator>Patrick Kingsley, Peter Baker, Michael D. Shear and Katie Rogers</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 10:54:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Al Ahli Arab Hospital (Gaza Strip)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palestinian Islamic Jihad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/18/multimedia/18israel-ledeall01-lftg/18israel-ledeall01-lftg-moth.jpg" width="151"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>President Biden was greeted by Prime Minister Benjamin Netanyahu on his arrival in Israel on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Devastation in Gaza After Hospital Blast</title>
+      <link>https://www.nytimes.com/video/world/middleeast/100000009138414/gaza-hospital-explosion.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/world/middleeast/100000009138414/gaza-hospital-explosion.html</guid>
+      <atom:link href="https://www.nytimes.com/video/world/middleeast/100000009138414/gaza-hospital-explosion.html" rel="standout"></atom:link>
+      <description>Still reeling from an explosion outside Ahli Arab Hospital in Gaza City, medical workers spoke of the destruction that left hundreds there dead. “We haven’t seen anything like this in our lives,” said one doctor.</description>
+      <dc:creator>Soliman Hijjy, Mark Boyer, Chevaz Clarke and Neil Collier</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 10:39:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Al Ahli Arab Hospital (Gaza Strip)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/11/11/video/112379-18vid-Gaza-hospital/112379-18vid-Gaza-hospital-moth.png" width="151"></media:content>
+      <media:credit>Soliman Hijjy for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Thursday Briefing: Biden Backs Israel on the Hospital Blast</title>
+      <link>https://www.nytimes.com/2023/10/18/briefing/gaza-israel-war-china-xi-putin-ukraine-war-missiles.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/18/briefing/gaza-israel-war-china-xi-putin-ukraine-war-missiles.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/18/briefing/gaza-israel-war-china-xi-putin-ukraine-war-missiles.html" rel="standout"></atom:link>
+      <description>Plus how much do we know about A.I.?</description>
+      <dc:creator>Justin Porter</dc:creator>
+      <pubDate>Wed, 18 Oct 2023 21:02:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far East, South and Southeast Asia and Pacific Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/19/multimedia/19ambriefing-asia-nl-biden-bvgm/19ambriefing-asia-nl-biden-bvgm-moth.jpg" width="151"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>President Biden yesterday after meeting with Prime Minister Benjamin Netanyahu in Israel.</media:description>
+    </item>
+    <item>
+      <title>Israel-Hamas War Brings Tensions to Europe: What Travelers Need to Know</title>
+      <link>https://www.nytimes.com/2023/10/18/travel/europe-travel-disruptions-israel-hamas.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/18/travel/europe-travel-disruptions-israel-hamas.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/18/travel/europe-travel-disruptions-israel-hamas.html" rel="standout"></atom:link>
+      <description>The intensifying war in the Middle East has led to demonstrations in London, Paris, Rome and beyond. Here’s what to expect amid the disruptions.</description>
+      <dc:creator>Ceylan Yeginsu</dc:creator>
+      <pubDate>Wed, 18 Oct 2023 20:34:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel Warnings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Louvre Museum</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brussels (Belgium)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Istanbul (Turkey)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rome (Italy)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/18/multimedia/18travel-europe-explainer-paris-twkg/18travel-europe-explainer-paris-twkg-moth.jpg" width="151"></media:content>
+      <media:credit>Dimitar Dilkoff/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Protesters light flares and wave flags during an unauthorized pro-Palestinian demonstration at the Place de la République in Paris last week.</media:description>
+    </item>
+    <item>
+      <title>Liberia’s Presidential Election Goes to a Runoff</title>
+      <link>https://www.nytimes.com/2023/10/18/world/africa/liberia-presidential-election-results.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/18/world/africa/liberia-presidential-election-results.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/18/world/africa/liberia-presidential-election-results.html" rel="standout"></atom:link>
+      <description>George Weah, a former soccer star who has been president since 2018, ran neck and neck with his main opponent in a rematch of the West African country’s last such contest.</description>
+      <dc:creator>Clair MacDougall and Elian Peltier</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 04:21:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Weah, George</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Liberia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/17/multimedia/HFO-liberia-election-kjgt/HFO-liberia-election-kjgt-moth.jpg" width="151"></media:content>
+      <media:credit>John Wessels/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Looking at newspaper headlines this past week in Monrovia, the Liberian capital. None of the candidates in the election drew the 50 percent needed for a first-round victory.</media:description>
+    </item>
+    <item>
+      <title>Gaza Hospital Explosion: What We Know</title>
+      <link>https://www.nytimes.com/2023/10/18/world/middleeast/gaza-hospital-israel-hamas-explained.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/18/world/middleeast/gaza-hospital-israel-hamas-explained.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/18/world/middleeast/gaza-hospital-israel-hamas-explained.html" rel="standout"></atom:link>
+      <description>Much is unclear about the strike that Palestinian authorities say killed hundreds.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 23:57:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Al Ahli Arab Hospital (Gaza Strip)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palestinian Islamic Jihad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-video</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/11/11/video/112379-18vid-Gaza-hospital/112379-18vid-Gaza-hospital-moth.png" width="151"></media:content>
+      <media:credit>Soliman Hijjy for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Why Is Gaza’s Rafah Border Crossing With Egypt So Important?</title>
+      <link>https://www.nytimes.com/2023/10/18/world/middleeast/gaza-rafah-border-crossing-egypt.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/18/world/middleeast/gaza-rafah-border-crossing-egypt.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/18/world/middleeast/gaza-rafah-border-crossing-egypt.html" rel="standout"></atom:link>
+      <description>The access point, where aid trucks are waiting to enter from Egypt and people are waiting to leave, is the only land crossing into Gaza that is not controlled by Israel.</description>
+      <dc:creator>Emma Bubola and Lauren Leatherby</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 07:13:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rafah (Gaza Strip)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/17/multimedia/17israel-hamas-rafah-explainer-1-ctmh/17israel-hamas-rafah-explainer-1-ctmh-moth.jpg" width="151"></media:content>
+      <media:credit>Samar Abu Elouf for The New York Times</media:credit>
+      <media:description>The Rafah border crossing between the Gaza Strip and Egypt on Monday. It is the only access point not controlled by Israel where civilians can enter and leave Gaza by land.</media:description>
+    </item>
+    <item>
+      <title>Humanitarian Aid for Gaza Amasses at Egypt’s Border as Crisis Worsens</title>
+      <link>https://www.nytimes.com/2023/10/18/world/middleeast/gaza-aid-rafah-border-crossing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/18/world/middleeast/gaza-aid-rafah-border-crossing.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/18/world/middleeast/gaza-aid-rafah-border-crossing.html" rel="standout"></atom:link>
+      <description>Though the U.S. and Israel say they have cleared the way for the aid to make its way into Gaza, truckloads of supplies remain in Egypt.</description>
+      <dc:creator>Vivian Yee, Matina Stevis-Gridneff and Mourad Hijazy</dc:creator>
+      <pubDate>Wed, 18 Oct 2023 18:38:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rafah (Gaza Strip)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/18/multimedia/18israel-hamas-rafah-crossing-01-mwzh/18israel-hamas-rafah-crossing-01-mwzh-moth.jpg" width="151"></media:content>
+      <media:credit>Mahmoud Khaled/Getty Images</media:credit>
+      <media:description>A convoy of trucks carrying aid was parked on the Egypt side of the Rafah border crossing with Gaza on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Early Intelligence Suggests Hospital Blast Caused by Palestinian Fighters, U.S. Says</title>
+      <link>https://www.nytimes.com/2023/10/18/us/politics/hospital-gaza-us-intelligence.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/18/us/politics/hospital-gaza-us-intelligence.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/18/us/politics/hospital-gaza-us-intelligence.html" rel="standout"></atom:link>
+      <description>U.S. officials cautioned that the analysis is preliminary and that the United States was continuing to collect and analyze evidence.</description>
+      <dc:creator>Julian E. Barnes, Patrick Kingsley, Helene Cooper and Adam Entous</dc:creator>
+      <pubDate>Wed, 18 Oct 2023 23:13:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palestinian Islamic Jihad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/18/multimedia/18dc-intel-vpjq/18dc-intel-vpjq-moth.jpg" width="151"></media:content>
+      <media:credit>Abed Khaled/Associated Press</media:credit>
+      <media:description>A blast killed hundreds of people at a hospital in Gaza City on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Storm Babet Brings Heavy Rain to Scotland</title>
+      <link>https://www.nytimes.com/2023/10/18/world/europe/storm-babet-uk-weather-scotland.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/18/world/europe/storm-babet-uk-weather-scotland.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/18/world/europe/storm-babet-uk-weather-scotland.html" rel="standout"></atom:link>
+      <description>Britain’s weather agency warned that as much as a month’s worth of rain is expected to fall between Thursday and Friday.</description>
+      <dc:creator>Isabella Kwai</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 15:13:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Scotland</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/11/18/multimedia/18xp-babet-new1/18xp-babet-new1-moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Milligan/PA Images, via Getty Images</media:credit>
+      <media:description>Residents at a flood barrier in the village of Edzell, near the eastern shore of Scotland, on Thursday.</media:description>
+    </item>
+    <item>
+      <title>The Israeli military puts forward its version of what happened at the hospital in Gaza.</title>
+      <link>https://www.nytimes.com/2023/10/18/world/middleeast/the-israeli-military-puts-forward-its-version-of-what-happened-at-the-hospital-in-gaza.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/18/world/middleeast/the-israeli-military-puts-forward-its-version-of-what-happened-at-the-hospital-in-gaza.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/18/world/middleeast/the-israeli-military-puts-forward-its-version-of-what-happened-at-the-hospital-in-gaza.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Patrick Kingsley</dc:creator>
+      <pubDate>Wed, 18 Oct 2023 18:11:56 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/18/multimedia/18israel-hamas-idf-claims-1-zpgm/18israel-hamas-idf-claims-1-zpgm-moth.jpg" width="151"></media:content>
+      <media:credit>Mahmud Hams/Agence France-Presse — Getty Images</media:credit>
+      <media:description>People searching through debris outside the Ahli Arab Hospital in Gaza on Wednesday following a deadly blast there.</media:description>
+    </item>
+    <item>
+      <title>After Gaza Hospital Explosion, Bloody Blankets and ‘Lots of Bodies’</title>
+      <link>https://www.nytimes.com/2023/10/18/world/middleeast/gaza-hospital-deaths-aftermath.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/18/world/middleeast/gaza-hospital-deaths-aftermath.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/18/world/middleeast/gaza-hospital-deaths-aftermath.html" rel="standout"></atom:link>
+      <description>“We’ve never lived through a war this intense,” said a Palestinian journalist who captured the aftermath of the blast in Gaza that killed hundreds.</description>
+      <dc:creator>Raja Abdulrahim, Hiba Yazbek and Yousur Al-Hlou</dc:creator>
+      <pubDate>Wed, 18 Oct 2023 19:19:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Al Ahli Arab Hospital (Gaza Strip)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-video</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/18/multimedia/18gaza-hospital-01a-hkbj/18gaza-hospital-01a-hkbj-moth.jpg" width="151"></media:content>
+      <media:credit>Mahmud Hams/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The aftermath of an explosion at the Ahli Arab Hospital in Gaza City on Wednesday. Hundreds were killed, Gaza health authorities said.</media:description>
+    </item>
+    <item>
+      <title>Putin Plays Down Threat Posed by Powerful U.S.-Supplied Missiles</title>
+      <link>https://www.nytimes.com/2023/10/18/world/europe/russia-ukraine-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/18/world/europe/russia-ukraine-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/18/world/europe/russia-ukraine-war.html" rel="standout"></atom:link>
+      <description>Analysts say the long-range weapons could force Russia to move military assets further away from the front lines, undermining their operations.</description>
+      <dc:creator>Marc Santora, Constant Méheut and Ivan Nechepurenko</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 04:33:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zaporizhzhia (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/18/multimedia/18ukraine-qhgf/18ukraine-qhgf-moth.jpg" width="151"></media:content>
+      <media:credit>Reuters</media:credit>
+      <media:description>A residential building in Zaporizhzhia, Ukraine, on Wednesday after it was hit by a missile.</media:description>
+    </item>
+    <item>
+      <title>Allied Spy Chiefs Warn of Chinese Espionage Targeting Tech Firms</title>
+      <link>https://www.nytimes.com/2023/10/18/us/politics/china-spying-technology.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/18/us/politics/china-spying-technology.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/18/us/politics/china-spying-technology.html" rel="standout"></atom:link>
+      <description>F.B.I. officials say more than half of Chinese spying efforts aimed at stealing technology occurs in Silicon Valley.</description>
+      <dc:creator>Julian E. Barnes</dc:creator>
+      <pubDate>Wed, 18 Oct 2023 09:04:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Industrial Espionage</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Australian Security Intelligence Organization (ASIO)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Security Service (MI5)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCallum, Ken</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wray, Christopher A</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Silicon Valley (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Stanford University</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/18/multimedia/18dc-ChinaIntel-klqf/18dc-ChinaIntel-klqf-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Haiyun Jiang/The New York Times</media:credit>
+      <media:description>“We are dealing with another unprecedented threat,” said Christopher A. Wray, the F.B.I. director. “There is no greater threat to innovation than the Chinese government.”</media:description>
+    </item>
+    <item>
+      <title>Biden Walks a Tightrope on Israel-Gaza as Democratic Tensions Smolder</title>
+      <link>https://www.nytimes.com/2023/10/18/us/politics/biden-israel-gaza-war-democrats.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/18/us/politics/biden-israel-gaza-war-democrats.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/18/us/politics/biden-israel-gaza-war-democrats.html" rel="standout"></atom:link>
+      <description>The president has won bipartisan plaudits for his response to the war, and his trip to Israel offers a chance to appear statesmanlike. But anger on the left is growing as Israeli strikes pound Gaza.</description>
+      <dc:creator>Reid J. Epstein</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 23:41:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/18/multimedia/18pol-biden-israel-tfpw-jbmz/18pol-biden-israel-tfpw-jbmz-moth.jpg" width="151"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>President Biden on his way to Israel. He has expressed firm support for the country after a Hamas attack that killed more than 1,400 Israelis.</media:description>
+    </item>
+    <item>
+      <title>Biden Tells Israel that Gaza Hospital Blast Appears to Be ‘Done By the Other Team’</title>
+      <link>https://www.nytimes.com/2023/10/18/world/middleeast/biden-israel-visit-gaza-hospital-strike.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/18/world/middleeast/biden-israel-visit-gaza-hospital-strike.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/18/world/middleeast/biden-israel-visit-gaza-hospital-strike.html" rel="standout"></atom:link>
+      <description>In a rare wartime visit, President Biden paired his support for Israel with a plea not to let overwhelming grief or anger drive the country to go too far.</description>
+      <dc:creator>Peter Baker</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 23:41:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palestinian Islamic Jihad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-video</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Al Ahli Arab Hospital (Gaza Strip)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/18/multimedia/18vid-biden-bgpj/18vid-biden-bgpj-moth.jpg" width="151"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Here’s the latest on the war.</title>
+      <link>https://www.nytimes.com/2023/10/18/world/middleeast/heres-the-latest-on-the-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/18/world/middleeast/heres-the-latest-on-the-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/18/world/middleeast/heres-the-latest-on-the-war.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Peter Baker</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 12:58:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wednesday Briefing</title>
+      <link>https://www.nytimes.com/2023/10/18/briefing/gaza-hospital-blast-biden.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/18/briefing/gaza-hospital-blast-biden.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/18/briefing/gaza-hospital-blast-biden.html" rel="standout"></atom:link>
+      <description>Hundreds of people have died in an explosion at a hospital in Gaza.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Wed, 18 Oct 2023 04:33:53 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/17/multimedia/18ambriefing-europe-nl-promo-oct/18ambriefing-europe-nl-israel-1-moth.jpg" width="151"></media:content>
+      <media:credit>Abed Khaled/Associated Press</media:credit>
+      <media:description>Palestinian civilians at the Al Shifa Hospital in Gaza on Tuesday. They were taken there after they were wounded in what Gaza officials said was an airstrike on the Ahli Arab Hospital.</media:description>
+    </item>
+    <item>
+      <title>Everton Sale Stalls Amid New Questions About 777 Partners</title>
+      <link>https://www.nytimes.com/2023/10/18/world/europe/everton-sale-777-partners.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/18/world/europe/everton-sale-777-partners.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/18/world/europe/everton-sale-777-partners.html" rel="standout"></atom:link>
+      <description>The U.S. firm bidding for the Premier League club, 777 Partners, has failed to provide required information to a British regulator.</description>
+      <dc:creator>Tariq Panja</dc:creator>
+      <pubDate>Wed, 18 Oct 2023 04:00:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Everton (Soccer Team)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">English Premier League</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">777 Partners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Financial Conduct Authority (Great Britain)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/18/multimedia/18Soccer-Everton-2-ftbz/18Soccer-Everton-2-ftbz-moth.jpg" width="151"></media:content>
+      <media:credit>Alex Livesey/Getty Images</media:credit>
+      <media:description>A sliding Everton player during a Premier League match against Tottenham in April. Everton’s finances are so dire that the club requires monthly infusions of millions of dollars to keep operating.</media:description>
+    </item>
+    <item>
+      <title>Hundreds Feared Dead in Gaza Hospital Blast as Israel and Hamas Blame Each Other</title>
+      <link>https://www.nytimes.com/2023/10/17/world/middleeast/gaza-hospital-explosion-israel.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/17/world/middleeast/gaza-hospital-explosion-israel.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/17/world/middleeast/gaza-hospital-explosion-israel.html" rel="standout"></atom:link>
+      <description>With President Biden about to arrive in Israel, Palestinians and Israelis blamed each other for the explosion at a  hospital, where people had sought shelter from Israeli bombing.</description>
+      <dc:creator>Patrick Kingsley, Aaron Boxerman and Hiba Yazbek</dc:creator>
+      <pubDate>Thu, 19 Oct 2023 19:26:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations High Commissioner for Refugees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Al Ahli Arab Hospital (Gaza Strip)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/17/multimedia/17israel-ledeall-promo-mwgh/17israel-ledeall-promo-mwgh-moth.jpg" width="151"></media:content>
+      <media:credit>Mohammed Al-Masri/Reuters</media:credit>
+    </item>
+    <item>
+      <title>World Leaders Express Horror Over Deadly Gaza Hospital Blast</title>
+      <link>https://www.nytimes.com/2023/10/17/world/middleeast/gaza-hospital-israel-reaction-protests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/17/world/middleeast/gaza-hospital-israel-reaction-protests.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/17/world/middleeast/gaza-hospital-israel-reaction-protests.html" rel="standout"></atom:link>
+      <description>Expressions of horror over the large loss of life predominated, while many Arab governments stressed certainty that Israel was to blame.</description>
+      <dc:creator>Liam Stack</dc:creator>
+      <pubDate>Wed, 18 Oct 2023 01:35:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abdullah II, King of Jordan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trudeau, Justin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cleverly, James</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbas, Mahmoud</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jordan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/17/multimedia/17israel-hamas-hospital-reactions-vkbl/17israel-hamas-hospital-reactions-vkbl-moth.jpg" width="151"></media:content>
+      <media:credit>Reuters</media:credit>
+      <media:description>Emergency responders delivering a civilian with injuries to a hospital in Gaza City on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Biden ‘Outraged’ Over Gaza Blast as He Makes a Wartime Visit to Israel</title>
+      <link>https://www.nytimes.com/2023/10/17/us/politics/biden-israel-trip.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/17/us/politics/biden-israel-trip.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/17/us/politics/biden-israel-trip.html" rel="standout"></atom:link>
+      <description>The explosion at a hospital highlights the dangers of a trip at a volatile moment in the war between Israel and Hamas.</description>
+      <dc:creator>Katie Rogers and Peter Baker</dc:creator>
+      <pubDate>Wed, 18 Oct 2023 18:59:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/17/multimedia/17dc-biden-gqzf/17dc-biden-gqzf-moth.jpg" width="151"></media:content>
+      <media:credit>Abed Khaled/Associated Press</media:credit>
+      <media:description>Palestinian civilians after a blast at a hospital in Gaza City on Tuesday. “We mourn the patients, medical staff and other innocents killed or wounded in this tragedy,” President Biden said.</media:description>
+    </item>
+    <item>
+      <title>Venezuela Pledges Small Steps Toward Fair Elections Next Year</title>
+      <link>https://www.nytimes.com/2023/10/17/world/americas/us-venezuela-sanctions-elections.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/17/world/americas/us-venezuela-sanctions-elections.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/17/world/americas/us-venezuela-sanctions-elections.html" rel="standout"></atom:link>
+      <description>The agreement signed on Tuesday by the country’s authoritarian government and the opposition would not allow all candidates to run.</description>
+      <dc:creator>Genevieve Glatsky and Julie Turkewitz</dc:creator>
+      <pubDate>Wed, 18 Oct 2023 04:58:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maduro, Nicolas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chevron Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Torture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Machado, Maria Corina</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/16/multimedia/16Venezuela-US-lwhf/16Venezuela-US-lwhf-moth.jpg" width="151"></media:content>
+      <media:credit>Adriana Loureiro Fernandez for The New York Times</media:credit>
+      <media:description>A street market in Caracas in January. An economic crisis that has lasted for years has sparked a humanitarian crisis that has caused extensive migration.</media:description>
+    </item>
+    <item>
+      <title>U.S. Response to Israel-Hamas War Draws Fury in Mideast</title>
+      <link>https://www.nytimes.com/2023/10/17/world/middleeast/biden-israel-gaza-anger.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/17/world/middleeast/biden-israel-gaza-anger.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/17/world/middleeast/biden-israel-gaza-anger.html" rel="standout"></atom:link>
+      <description>The staunch support for Israel has stoked accusations of American hypocrisy, with Arab critics fearing a wholesale massacre of Palestinians in response to the deadly Hamas attack on Israel.</description>
+      <dc:creator>Vivian Nereim, Alissa J. Rubin and Euan Ward</dc:creator>
+      <pubDate>Wed, 18 Oct 2023 18:59:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/17/multimedia/17mideast-us-3-bpqv/17mideast-us-3-bpqv-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Sergey Ponomarev for The New York Times</media:credit>
+      <media:description>Israeli soldiers around a mortar launcher firing toward Gaza from Be’eri, Israel, on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>What Is Islamic Jihad, the Group Israel Blamed for the Gaza Hospital Blast?</title>
+      <link>https://www.nytimes.com/2023/10/17/world/middleeast/islamic-jihad-gaza-hospital-israel.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/17/world/middleeast/islamic-jihad-gaza-hospital-israel.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/17/world/middleeast/islamic-jihad-gaza-hospital-israel.html" rel="standout"></atom:link>
+      <description>Like Hamas, the group receives support from Iran in funding and weapons.</description>
+      <dc:creator>Raja Abdulrahim</dc:creator>
+      <pubDate>Wed, 18 Oct 2023 00:11:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palestinian Islamic Jihad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Al Ahli Arab Hospital (Gaza Strip)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/09/multimedia/17israel-hamas-islamic-jihad-explainer-version/09israel-gaza-jihad-kplf-moth.jpg" width="151"></media:content>
+      <media:credit>Mohammed Saber/EPA, via Shutterstock</media:credit>
+      <media:description>Islamic Jihad supporters at a rally for the 35th anniversary of the group’s founding, in Gaza City last October.</media:description>
+    </item>
+  </channel>
+</rss>

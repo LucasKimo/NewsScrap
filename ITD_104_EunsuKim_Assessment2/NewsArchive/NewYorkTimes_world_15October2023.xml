@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World News</title>
+    <link>https://www.nytimes.com/section/world</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2023 The New York Times Company</copyright>
+    <lastBuildDate>Sun, 15 Oct 2023 06:41:48 +0000</lastBuildDate>
+    <pubDate>Sun, 15 Oct 2023 06:38:50 +0000</pubDate>
+    <image>
+      <title>NYT &gt; World News</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/world</link>
+    </image>
+	<item>
+      <title>F.B.I. Tracks Increased Threats to Jews and Muslims After Hamas Attack</title>
+      <link>https://www.nytimes.com/2023/10/15/world/middleeast/threats-jewish-muslim-americans-israel-attack.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/15/world/middleeast/threats-jewish-muslim-americans-israel-attack.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/15/world/middleeast/threats-jewish-muslim-americans-israel-attack.html" rel="standout"></atom:link>
+      <description>F.B.I. officials said that they were reaching out to faith leaders to discuss potential threats against their communities.</description>
+      <dc:creator>Julian E. Barnes</dc:creator>
+      <pubDate>Sun, 15 Oct 2023 20:52:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Semitism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Threats and Threatening Messages</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/15/multimedia/15israel-hamas-fbi-qjlf/15israel-hamas-fbi-qjlf-moth.jpg" width="151"></media:content>
+      <media:credit>Alex Kent/Getty Images</media:credit>
+      <media:description>Additional security outside Temple Emanu-el in New York City on Friday.</media:description>
+    </item>
+    <item>
+      <title>Monday Briefing: A Race to Ease the Gaza Crisis</title>
+      <link>https://www.nytimes.com/2023/10/15/briefing/israel-hamas-war-new-zealand-election-australia-voice-referendum.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/15/briefing/israel-hamas-war-new-zealand-election-australia-voice-referendum.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/15/briefing/israel-hamas-war-new-zealand-election-australia-voice-referendum.html" rel="standout"></atom:link>
+      <description>Plus the myths that sex experts wish would vanish.</description>
+      <dc:creator>Justin Porter</dc:creator>
+      <pubDate>Sun, 15 Oct 2023 21:01:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far East, South and Southeast Asia and Pacific Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Zealand</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Luxon, Christopher</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/16/multimedia/101623ambriefing-asia-promo3/16ambriefing-asia-gaza3-jhtq-moth.jpg" width="151"></media:content>
+      <media:credit>Sergey Ponomarev for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Joran van der Sloot Expected to Plead Guilty in Natalee Holloway Extortion Case</title>
+      <link>https://www.nytimes.com/2023/10/15/us/joran-van-der-sloot-guilty.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/15/us/joran-van-der-sloot-guilty.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/15/us/joran-van-der-sloot-guilty.html" rel="standout"></atom:link>
+      <description>A lawyer for Beth Holloway, the mother of the Alabama teenager whose 2005 disappearance remains unsolved, said the suspect, Joran van der Sloot, had accepted a plea deal.</description>
+      <dc:creator>Orlando Mayorquin</dc:creator>
+      <pubDate>Sun, 15 Oct 2023 13:07:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Holloway, Natalee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">van der Sloot, Joran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Extortion and Blackmail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Extradition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missing Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Aruba</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Peru</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/15/multimedia/15xp-plea-01-gpkt/15xp-plea-01-gpkt-moth.jpg" width="151"></media:content>
+      <media:credit>Martin Mejia/Associated Press</media:credit>
+      <media:description>Joran van der Sloot in Lima, Peru, last June, shortly before being extradited to the United States.</media:description>
+    </item>
+    <item>
+      <title>Gaza’s Hospitals Face ‘Impossible’ Choices With Israel Evacuation Order</title>
+      <link>https://www.nytimes.com/2023/10/15/world/middleeast/gaza-hospital-evacuation-israel.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/15/world/middleeast/gaza-hospital-evacuation-israel.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/15/world/middleeast/gaza-hospital-evacuation-israel.html" rel="standout"></atom:link>
+      <description>As a widely anticipated ground invasion looms, hospitals in Gaza City said they had no way to evacuate thousands of sick and injured patients.</description>
+      <dc:creator>Raja Abdulrahim</dc:creator>
+      <pubDate>Sun, 15 Oct 2023 21:37:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Al Shifa Hospital (Gaza Strip)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/13/multimedia/15israel-hamas-blog-hospitals-new/13israel-hamas-blog-update-gflv-moth.jpg" width="151"></media:content>
+      <media:credit>Samar Abu Elouf for The New York Times</media:credit>
+      <media:description>Wheeling an injured man into Al Shifa Hospital in Gaza City on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Dariush Mehrjui, Iranian Filmmaker, Found Dead With His Wife</title>
+      <link>https://www.nytimes.com/2023/10/15/world/middleeast/dariush-mehrjui-iran-filmmaker-killed.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/15/world/middleeast/dariush-mehrjui-iran-filmmaker-killed.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/15/world/middleeast/dariush-mehrjui-iran-filmmaker-killed.html" rel="standout"></atom:link>
+      <description>Dariush Mehrjui, 83, one of the pioneers of Iranian cinema’s new wave movement, was found dead, along with his wife, at their home outside Tehran.</description>
+      <dc:creator>Leily Nikounazar</dc:creator>
+      <pubDate>Sun, 15 Oct 2023 12:13:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mehrjui, Dariush</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tehran (Iran)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/16/world/16Mehrjui/16Mehrjui-moth.jpg" width="151"></media:content>
+      <media:credit>Kaveh Kazemi/Getty Images</media:credit>
+      <media:description>Dariush Mehrjui, left, on the set of his movie “The Pear Tree” in Tehran in the late 1990s.</media:description>
+    </item>
+    <item>
+      <title>How Megafires Are Remaking the World</title>
+      <link>https://www.nytimes.com/2023/10/15/science/climate-wildfires-ecosystems.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/15/science/climate-wildfires-ecosystems.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/15/science/climate-wildfires-ecosystems.html" rel="standout"></atom:link>
+      <description>In our Pyrocene age, enormous wildfires aren’t merely damaging ecosystems but transforming them.</description>
+      <dc:creator>Emily Anthes</dc:creator>
+      <pubDate>Sun, 15 Oct 2023 09:02:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biodiversity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trees and Shrubs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kelowna (British Columbia)</category>
+    </item>
+    <item>
+      <title>Afghanistan Struck by Two More Strong Earthquakes</title>
+      <link>https://www.nytimes.com/2023/10/15/world/asia/afghanistan-earthquakes-again.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/15/world/asia/afghanistan-earthquakes-again.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/15/world/asia/afghanistan-earthquakes-again.html" rel="standout"></atom:link>
+      <description>Herat Province, near the site of three earlier quakes that killed more than 1,000 people in recent days, was shaken violently again early Sunday.</description>
+      <dc:creator>Christina Goldbaum and Yaqoob Akbary</dc:creator>
+      <pubDate>Sun, 15 Oct 2023 12:18:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Herat (Afghanistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/15/multimedia/15afghan-earthquake-mlpg/15afghan-earthquake-mlpg-moth.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>Injured people being taken to a hospital after two more earthquakes on Sunday in Herat, Afghanistan.</media:description>
+    </item>
+    <item>
+      <title>Poised for Attack, Israel Steps Up Calls for Gaza Residents to Leave ‘Battle Zone’</title>
+      <link>https://www.nytimes.com/2023/10/14/world/middleeast/israel-gaza-humanitarian-crisis.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/14/world/middleeast/israel-gaza-humanitarian-crisis.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/14/world/middleeast/israel-gaza-humanitarian-crisis.html" rel="standout"></atom:link>
+      <description>Nearly one million displaced Gazans are facing shortages of food, clean water and shelter, while Americans remain trapped in the enclave.</description>
+      <dc:creator>Thomas Fuller</dc:creator>
+      <pubDate>Sun, 15 Oct 2023 03:57:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/15/multimedia/14israel-ledeall-1-wphl/15israel-ledeall-1-wphl-moth.jpg" width="151"></media:content>
+      <media:credit>Sergey Ponomarev for The New York Times</media:credit>
+      <media:description>Israeli armored vehicles massed near Erez, Israel, by the Gaza border on Saturday, in preparation for a widely anticipated invasion in coming days. </media:description>
+    </item>
+    <item>
+      <title>Israeli Invasion Plans Target Gaza City and Hamas Leadership</title>
+      <link>https://www.nytimes.com/2023/10/14/world/middleeast/israel-gaza-invasion.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/14/world/middleeast/israel-gaza-invasion.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/14/world/middleeast/israel-gaza-invasion.html" rel="standout"></atom:link>
+      <description>The goal, according to three senior officers, is to wipe out the top political and military hierarchy of Hamas, the Palestinian group that controls Gaza.</description>
+      <dc:creator>Patrick Kingsley and Ronen Bergman</dc:creator>
+      <pubDate>Sun, 15 Oct 2023 02:56:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sinwar, Yehya</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/14/multimedia/14israel-invasion-1-mzjg/14israel-invasion-1-mzjg-moth.jpg" width="151"></media:content>
+      <media:credit>Sergey Ponomarev for The New York Times</media:credit>
+      <media:description>Israeli soldiers on Saturday load shells onto a tank ahead of a possible invasion of the Gaza Strip.</media:description>
+    </item>
+  </channel>
+</rss>
